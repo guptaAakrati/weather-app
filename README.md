@@ -1,2 +1,2 @@
 # weather-app
-check the weather all cities.
+check the weather for all cities.
